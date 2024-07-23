@@ -11,11 +11,15 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <hr>
 
+<h3 align="left">Connect with me!</h3>
+
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.google.com/support/accounts/bin/answer.py?answer=181692)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](#)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](#)
 
 <h3 align="left">my knowledge</h3>
+
+
+<img align="right" alt="img github" src="https://github.com/user-attachments/assets/586f82f2-9e1a-4a4c-a531-fe042f722f94">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
