@@ -1,5 +1,5 @@
 <div align="center">
-<img width=100% botton=50px src="https://github.com/user-attachments/assets/5dfec76c-b629-4c15-b2ee-7674089e3dcd"/>
+<img width=100% botton=50px src="https://github.com/user-attachments/assets/0a8f3546-5abe-41f2-9ebd-ebd50f4ecf5e"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B4EFF&width=435&lines=Hi%2C+my+name+is+Rafael;I+am+23+years+old;I'm+a+full+stack+software+developer;I+am+from+Brazil;welcome....)
 
